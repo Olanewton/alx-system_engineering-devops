@@ -1,1 +1,1 @@
-Delete the file betty
+Create a script... my_first_directory in the /tmp/ directory
