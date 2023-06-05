@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #The bash script that creates bash script
-ssh-keygen -t rsa -b 4096 -P betty -f school
+ssh-keygen -f school -t rsa -b 4096 -N betty
